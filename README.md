@@ -2,7 +2,7 @@
 
 <br />
 
-### __A lightweight, general purpose C threadpool, in C.__
+### __A lightweight, general purpose threadpool, in C.__
 
 <br/>
 - High performance threadpool. <br/>
@@ -29,7 +29,7 @@ git clone https://github.com/Esteban795/threadpool.git
 
 <br/>
 
-### /!\ It should work juste fine on Linux and Windows. I haven't tested it on MacOS, since I don't own a computer that has it.
+### /!\ It should work just fine on Linux and Windows. I haven't tested it on MacOS, since I don't own a computer that has it.
 
 <br/>
 <br/>
