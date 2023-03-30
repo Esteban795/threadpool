@@ -5,6 +5,7 @@
 ### __A lightweight, general purpose threadpool, in C.__
 
 <br/>
+
 - High performance threadpool. <br/>
 - Tasks can be individually synchronized with synchronization objects (making it faster than using the standard lib 'future'.)
 
